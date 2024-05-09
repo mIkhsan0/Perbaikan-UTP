@@ -1,10 +1,13 @@
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Scanner;
 
 public class Main {
+
     public static void main(String[] args) {
         //Do your magic here...
+        new PemesananTiket(); //Saya pisah agar lebih enak untuk saya kerjakan
     }
 
     /*
